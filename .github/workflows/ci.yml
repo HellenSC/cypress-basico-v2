@@ -1,4 +1,4 @@
-name: End-to-end tests Hellen Castro🧪
+name: End-to-end tests Hellen S Castro🧪
 on: [push]
 jobs:
   cypress-run:
